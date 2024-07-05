@@ -1,0 +1,7 @@
+.randomimg {
+    width: 400px; /* Largeur fixe */
+    height: 400px; /* Hauteur fixe */
+    object-fit: cover; /* Remplit la zone tout en gardant le rapport d'aspect */
+    display: block; /* Pour centrer l'image */
+    margin: 0 auto; /* Pour centrer l'image */
+}
